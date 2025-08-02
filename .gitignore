@@ -1,0 +1,18 @@
+#Compilation
+/out/
+/build/
+/dist/
+
+#IDEs
+.idea/
+*.iml
+nbproject/
+
+#System Files
+.DS_Store
+Thumbs.db
+
+#Personal Files
+*.txt
+*.bak
+*.xml
